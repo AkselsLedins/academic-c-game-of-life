@@ -1,4 +1,4 @@
-![Screenshot](http://git.aksels.me/mini-projects/c-game-of-life/raw/master/screenshot.png)  
+![Screenshot](https://github.com/AkselsLedins/academic-c-game-of-life/raw/master/screenshot.png)  
 
 # Game of Life (Conway's Algorithm)
 
